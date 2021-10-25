@@ -7,7 +7,7 @@
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryem-sema-bolat/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://web.itu.edu.tr/bolat16/Meryem/MeryemLoginPage.php)
+[![](https://img.shields.io/badge/web-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://web.itu.edu.tr/bolat16/Meryem/MeryemLoginPage.php)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meryemsemabolat/)
 [![Mail Badge](https://img.shields.io/badge/msemaa1@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:msemaa1@hotmail.com)](mailto:msemaa1@hotmail.com)
 
