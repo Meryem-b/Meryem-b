@@ -3,8 +3,7 @@
 # Merhaba, ben Meryem Bolat ! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meryem-s" alt="meryems" /> </p>
 
-[![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov)
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/meryems)
+[![](https://img.shields.io/github/followers/meryems?style=social)](https://www.github.com/meryems)
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryem-sema-bolat/)
