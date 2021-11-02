@@ -1,9 +1,9 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=meryem-s&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Meryem-b&show_icons=true">
 
 # Merhaba, ben Meryem Bolat ! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meryem-s" alt="meryem-s" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Meryem-b" alt="Meryem-b" /> </p>
 
-[![](https://img.shields.io/github/followers/meryem-s?style=social)](https://www.github.com/meryem-s)
+[![](https://img.shields.io/github/followers/Meryem-b?style=social)](https://www.github.com/Meryem-b)
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryem-sema-bolat/)
